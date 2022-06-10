@@ -7,3 +7,5 @@ if __name__ == '__main__':
     hash_num = str(hash(t))
     print(hash_num)
 
+
+print('Hello')
